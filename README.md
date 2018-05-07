@@ -1,2 +1,2 @@
 # Keksby
-### Shop for Cats.
+### Shop for cats.
