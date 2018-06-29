@@ -1,2 +1,3 @@
 # Keksby
-### Shop for cats.
+### HTML Academy course.
+### [Link](https://htmlacademy.ru/courses/keksby)
