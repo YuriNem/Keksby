@@ -1,3 +1,2 @@
 # Keksby
-### HTML Academy course.
-### [Link](https://htmlacademy.ru/courses/keksby)
+### [HTML Academy course](https://htmlacademy.ru/courses/keksby).
