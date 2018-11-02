@@ -1,2 +1,2 @@
 # Keksby
-### [HTML Academy course](https://htmlacademy.ru/courses/keksby).
+### [HTML Academy course](https://htmlacademy.ru/courses/keksby)
